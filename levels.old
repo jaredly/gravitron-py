@@ -1,0 +1,53 @@
+[
+    {"name":"Level 1",
+     "enemies":[
+            ["Grunt",[100,100]]
+         ]},
+    {"name":"Level 2",
+     "enemies":[
+            ["Grunt",[100,100]],
+            ["Grunt",[600,600]]
+         ]},
+    {"name":"Level 3",
+     "enemies":[
+            ["Grunt",[100,100]],
+            ["RedDeamon", [600,600]]
+         ]},
+    {"name":"Level 4",
+     "enemies":[
+            ["Grunt", [100,100]],
+            ["Grunt", [600,100]],
+            ["Grunt", [100,600]],
+            ["RedDeamon", [600,600]]
+         ]},
+    {"name":"Level 5",
+     "enemies":[
+            ["Grunt", [400,100]],
+            ["Grunt", [100,400]],
+            ["RedDeamon", [100,600]],
+            ["RedDeamon", [600,100]],
+            ["TriclopsBoss", [600,600]]
+         ]},
+    {"name":"Level 6",
+     "enemies":[
+            ["Triclops",[600,100]],
+            ["Triclops",[100,600]]
+         ]},
+    {"name":"Level 7",
+     "enemies":[
+            ["Triclops",[600,100]],
+            ["Guppie",[100,600]],
+            ["Guppie",[100,400]],
+            ["Guppie",[100,200]]
+         ]},
+    {"name":"Level 8",
+     "enemies":[
+            ["Vineman",[100,100]],
+            ["Vineman",[600,600]]
+         ]},
+    {"name":"Level 9",
+     "enemies":[
+            ["MineSweeper",[100,100]],
+            ["MineSweeper",[600,600]]
+         ]}
+]
